@@ -17,10 +17,7 @@ function helloworld(response, request) {
   response.end();
 }
 
-/*
-Password -> qzpZST47__-ggkiRFMC048=
-Application Id -> 45b7bb13-b3d4-47c0-9c69-92fa429ae27f
-*/
+
 /*
 function home(response, request) {
   console.log('Request handler \'home\' was called.');
